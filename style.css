@@ -62,4 +62,18 @@ img {
     width: 550px;
 }
 
+.grupo-rosa {
+    background-color: rgb(234, 168, 234);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.ultimo {
+    height: 960px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
 /*css finalizado */
